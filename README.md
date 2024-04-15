@@ -1,5 +1,5 @@
 # Axion-CS2-RAGE-CHEAT
- + This is only a Fork of the real github! [Axion Source 1]([https://discord.com/users/831108234298261525](https://github.com/T1GxR/Axion-CS2-RAGE-CHEAT)) [Axion Source 2](https://github.com/AluminumFF/Axion-Source/tree/master/cstrike)
+ + This is only a Fork of the real github! [Axion Source 1](https://github.com/T1GxR/Axion-CS2-RAGE-CHEAT) [Axion Source 2](https://github.com/AluminumFF/Axion-Source/tree/master/cstrike)
  + The source code of AXION CS2 internal rage cheat. 
  + I decided to make it public beacause it has been sold for 75$ to a russian and then leaked on the internet.
  + It has some great features but they work preety bad, it needs a lot of updates.
